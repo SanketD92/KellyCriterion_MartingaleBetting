@@ -4,4 +4,5 @@ Testing the combination of Kelly Criterion and Martingale Betting System for opt
 More background on mentioned topics:
 
 https://en.wikipedia.org/wiki/Kelly_criterion
+
 https://en.wikipedia.org/wiki/Martingale_(betting_system)
